@@ -1,6 +1,6 @@
-# OpenClaw 卡牌美术生产 Skill
+# 4399游戏盒IP卡牌美术生产 Skill
 
-这是一个面向 OpenClaw / AgentOS 风格上下文基建的卡牌美术生产工作流 skill。
+这是一个在探索制作4399游戏盒IP角色43君99娘为主角的卡牌游戏沉淀下来的卡牌美术生产工作流 skill。
 
 它沉淀的是一套适合 AI agent 执行的卡牌美术流水线：先做角色六视图 anchor，再按卡牌语义生成候选图，保留 `prompt / output / critique`，最后用独立 reviewer 做 PASS/FAIL 审核和系列定档。
 
